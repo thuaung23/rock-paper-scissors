@@ -26,7 +26,7 @@ scissors = '''
 ---.__(___)
 '''
 print("Welcome to the game of Rock, Paper, Scissor.")
-user_choice = input("Choose 0 for Rock, 1 for Paper or 2 for Scissor.")
+user_choice = input("Choose 0 for Rock, 1 for Paper or 2 for Scissor.\n")
 comp_choice = random.randint(0,2)
 
 if user_choice == '0' and comp_choice == 0:
