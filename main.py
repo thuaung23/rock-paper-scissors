@@ -1,3 +1,9 @@
+# This is a simple game of Rock, Paper, Scissor
+# Written by: Thu Aung
+# Written on: Sept 10,2020
+
+print('Welcome to the game of Rock, Paper and Scissor!!!')
+
 import random
 rock = '''
     _______
